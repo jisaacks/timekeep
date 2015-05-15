@@ -1,0 +1,22 @@
+{
+  "name": "timekeep",
+  "version": "0.0.0",
+  "main": "timekeep.js",
+  "authors": [
+    "JD Isaacks"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "time",
+    "es6",
+    "es7"
+  ],
+  "description": "A keep all instances in sync",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
